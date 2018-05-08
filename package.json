@@ -1,0 +1,24 @@
+{
+  "name": "therp_bot",
+  "version": "1.5.0",
+  "description": "Ce bot est réservé au serveur [FR] TheRP",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "lowdb": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlaSterZ48/TheRP_bot.git"
+  },
+  "author": "BlaSterZ_48",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlaSterZ48/TheRP_bot/issues"
+  },
+  "homepage": "https://github.com/BlaSterZ48/TheRP_bot#readme"
+}
