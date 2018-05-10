@@ -18,7 +18,7 @@ bot.on('ready', () => {
     console.log("Bot ready !");
 });
 
-bot.login(process.env.TOKEN);
+bot.login('crW_SlD3i34s2w9GNDHkSWPVq1hiGB7i');
 
 
 bot.on('guildMemberAdd', member => {
